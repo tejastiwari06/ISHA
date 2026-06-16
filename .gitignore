@@ -1,0 +1,16 @@
+# Backend
+isha-backend/venv/
+isha-backend/__pycache__/
+isha-backend/.env
+isha-backend/.history/
+
+# Frontend
+isha-frontend/node_modules/
+isha-frontend/.env
+
+# Python
+*.pyc
+__pycache__/
+
+# Ignore old repo
+ISHA/
